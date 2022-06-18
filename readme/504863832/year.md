@@ -1,7 +1,7 @@
 ## [🔙 maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter)
 
-### :octocat: [orchestration](https://github.com/maxgio92/orchestration)
-![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/418463086/large/year.png)
+### :octocat: [go-template-multiplexing](https://github.com/maxgio92/go-template-multiplexing)
+![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/504863832/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>13</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/6/18 6:25 PM UTC</i></small>
+<small><i>Last updated on 2022/6/18 6:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/svg/418463086/badge.svg)](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/418463086/week.md)
+[![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/svg/504863832/badge.svg)](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/504863832/week.md)
 ```readme
-[![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/svg/418463086/badge.svg)](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/418463086/week.md)
+[![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/svg/504863832/badge.svg)](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/504863832/week.md)
 ```
 ### Header
-# orchestration [<img alt="Image of maxgio92-github-profile-views-counter" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/418463086/small/year.png" height="20">](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/418463086/year.md)
+# go-template-multiplexing [<img alt="Image of maxgio92-github-profile-views-counter" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/504863832/small/year.png" height="20">](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/504863832/year.md)
 ```readme
-# orchestration [<img alt="Image of maxgio92-github-profile-views-counter" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/418463086/small/year.png" height="20">](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/418463086/year.md)
+# go-template-multiplexing [<img alt="Image of maxgio92-github-profile-views-counter" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/504863832/small/year.png" height="20">](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/504863832/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
