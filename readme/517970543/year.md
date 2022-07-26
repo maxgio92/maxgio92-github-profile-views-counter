@@ -1,7 +1,7 @@
 ## [🔙 maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter)
 
-### :octocat: [gitopsdays-2020](https://github.com/maxgio92/gitopsdays-2020)
-![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/312557619/large/year.png)
+### :octocat: [flux2-capsule-multi-tenancy](https://github.com/maxgio92/flux2-capsule-multi-tenancy)
+![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/517970543/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/7/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>40</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/26 12:44 PM UTC</i></small>
+<small><i>Last updated on 2022/7/26 12:40 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/svg/312557619/badge.svg)](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/312557619/week.md)
+[![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/svg/517970543/badge.svg)](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/517970543/week.md)
 ```readme
-[![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/svg/312557619/badge.svg)](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/312557619/week.md)
+[![Image of maxgio92-github-profile-views-counter](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/svg/517970543/badge.svg)](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/517970543/week.md)
 ```
 ### Header
-# gitopsdays-2020 [<img alt="Image of maxgio92-github-profile-views-counter" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/312557619/small/year.png" height="20">](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/312557619/year.md)
+# flux2-capsule-multi-tenancy [<img alt="Image of maxgio92-github-profile-views-counter" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/517970543/small/year.png" height="20">](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/517970543/year.md)
 ```readme
-# gitopsdays-2020 [<img alt="Image of maxgio92-github-profile-views-counter" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/312557619/small/year.png" height="20">](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/312557619/year.md)
+# flux2-capsule-multi-tenancy [<img alt="Image of maxgio92-github-profile-views-counter" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/graph/517970543/small/year.png" height="20">](https://github.com/maxgio92/maxgio92-github-profile-views-counter/blob/master/readme/517970543/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
