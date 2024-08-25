@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:20 AM UTC
+			2024/8/23 1:19 AM UTC
 		</td>
 		<td>
 			50
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:20 AM UTC
+			2024/8/23 1:19 AM UTC
 		</td>
 		<td>
 			36
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:20 AM UTC
+			2024/8/23 1:19 AM UTC
 		</td>
 		<td>
 			13
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:20 AM UTC
+			2024/8/23 1:19 AM UTC
 		</td>
 		<td>
 			8
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:20 AM UTC
+			2024/8/23 1:19 AM UTC
 		</td>
 		<td>
 			5
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:21 AM UTC
+			2024/8/23 1:19 AM UTC
 		</td>
 		<td>
 			154
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:21 AM UTC
+			2024/8/23 1:19 AM UTC
 		</td>
 		<td>
 			26
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:21 AM UTC
+			2024/8/23 1:19 AM UTC
 		</td>
 		<td>
 			2
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:21 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			240
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:21 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			8
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:21 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			2
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:21 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			1
@@ -218,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:21 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			4
@@ -234,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:22 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			1
@@ -250,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:22 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			2
@@ -266,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:22 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			0
@@ -282,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:22 AM UTC
+			2024/8/23 1:20 AM UTC
 		</td>
 		<td>
 			0
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:22 AM UTC
+			2024/8/23 1:21 AM UTC
 		</td>
 		<td>
 			0
@@ -314,7 +314,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:22 AM UTC
+			2024/8/23 1:21 AM UTC
 		</td>
 		<td>
 			3
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:22 AM UTC
+			2024/8/23 1:21 AM UTC
 		</td>
 		<td>
 			1
@@ -346,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:22 AM UTC
+			2024/8/23 1:21 AM UTC
 		</td>
 		<td>
 			0
@@ -362,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:23 AM UTC
+			2024/8/23 1:21 AM UTC
 		</td>
 		<td>
 			0
@@ -378,7 +378,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:23 AM UTC
+			2024/8/23 1:21 AM UTC
 		</td>
 		<td>
 			11
@@ -394,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:23 AM UTC
+			2024/8/23 1:21 AM UTC
 		</td>
 		<td>
 			125
@@ -410,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:23 AM UTC
+			2024/8/23 1:21 AM UTC
 		</td>
 		<td>
 			2
@@ -426,7 +426,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:23 AM UTC
+			2024/8/23 1:22 AM UTC
 		</td>
 		<td>
 			0
@@ -442,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:23 AM UTC
+			2024/8/23 1:22 AM UTC
 		</td>
 		<td>
 			0
@@ -458,7 +458,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/8/22 1:23 AM UTC
+			2024/8/23 1:22 AM UTC
 		</td>
 		<td>
 			6
@@ -469,7 +469,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/8/24 6:25 PM UTC</i></small>
+<small><i>Last updated on 2024/8/25 1:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
