@@ -325,6 +325,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/maxgio92/maxgio92-github-profile-views-counter/tree/master/readme/381418685/year.md">
+				jvm-cgroups-games
+			</a>
+		</td>
+		<td>
+			2026/9/22 4:03 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/raw/master/graph/381418685/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/maxgio92/maxgio92-github-profile-views-counter/tree/master/readme/351128125/year.md">
 				gitops-poc-monorepo
 			</a>
@@ -453,7 +469,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/9/24 11:25 AM UTC</i></small>
+<small><i>Last updated on 2026/9/24 4:49 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
