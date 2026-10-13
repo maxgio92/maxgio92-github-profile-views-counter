@@ -229,22 +229,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/maxgio92/maxgio92-github-profile-views-counter/tree/master/readme/425903118/year.md">
-				src-to-oci-config
-			</a>
-		</td>
-		<td>
-			2026/10/11 4:53 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/maxgio92/maxgio92-github-profile-views-counter/raw/master/graph/425903118/small/year.png" height="20"> 4
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/maxgio92/maxgio92-github-profile-views-counter/tree/master/readme/425904805/year.md">
 				src-to-oci-source
 			</a>
@@ -469,7 +453,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/10/13 12:23 AM UTC</i></small>
+<small><i>Last updated on 2026/10/13 1:53 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
